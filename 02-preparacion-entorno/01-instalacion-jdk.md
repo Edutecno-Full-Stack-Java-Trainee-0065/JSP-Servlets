@@ -9,16 +9,23 @@ El JDK es esencial para desarrollar aplicaciones Java, incluyendo JSP y Servlets
 ## Paso 2: Instalar el JDK
 
 ![Abrir ejecutable](../images/java/java2.png)
+
 ![Instalador1](../images/java/java3.png)
+
 ![Instalador2](../images/java/java4.png)
+
 ![Instalador3](../images/java/java5.png)
 
 ## Paso 3: Configurar las variables de entorno
 
 ![Abrir Variables de entorno](../images/java/java6.png)
+
 ![Nueva Variables de entorno a nivel sistema](../images/java/java7.png)
+
 ![Asignar JAVA_HOME](../images/java/java8.png)
+
 ![Seleccionar Path](../images/java/java9.png)
+
 ![Setear JAVA_HOME](../images/java/java10.png)
 
 

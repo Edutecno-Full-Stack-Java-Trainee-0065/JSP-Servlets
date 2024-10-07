@@ -11,9 +11,14 @@ Apache Tomcat es un contenedor de servlets open-source que implementa varias esp
 
 ## Paso 2: Ejecutar el instalador
 
-![Descargar tomcat](../images/tomcat/Instalador2.png)
-![Descargar tomcat](../images/tomcat/Instalador3.png)
-![Descargar tomcat](../images/tomcat/Instalador4.png)
-![Descargar tomcat](../images/tomcat/Instalador5.png)
-![Descargar tomcat](../images/tomcat/Instalador6.png)
-![Descargar tomcat](../images/tomcat/Instalador7.png)
+![Instalador1](../images/tomcat/Instalador2.png)
+
+![Instalador2](../images/tomcat/Instalador3.png)    
+
+![Instalador3](../images/tomcat/Instalador4.png)
+
+![Instalador4](../images/tomcat/Instalador5.png)
+
+![Instalador6](../images/tomcat/Instalador6.png)
+
+![Instalador7](../images/tomcat/Instalador7.png)
