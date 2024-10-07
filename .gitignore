@@ -1,0 +1,4 @@
+# Ignorar archivos .DS_Store en todos los directorios
+**/.DS_Store
+
+# Resto del contenido existente del .gitignore
