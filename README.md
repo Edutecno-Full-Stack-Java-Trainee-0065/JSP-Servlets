@@ -50,12 +50,5 @@ Bienvenido a nuestra guía completa para configurar y desarrollar proyectos usan
 4. [Servlets](04-servlets/README.md)
 5. [Proyectos de Ejemplo](05-proyectos-ejemplo/README.md)
 
-## Cómo Usar Esta Guía
-
-[Instrucciones sobre cómo navegar y aprovechar al máximo esta guía]
-
-## Contribuciones
-
-Si deseas contribuir a esta guía, por favor lee nuestro [archivo de contribución](CONTRIBUTING.md).
 
 
