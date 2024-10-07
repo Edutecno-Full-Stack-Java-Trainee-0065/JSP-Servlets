@@ -1,4 +1,23 @@
-# Ignorar archivos .DS_Store en todos los directorios
-**/.DS_Store
+# Archivos de sistema
+.DS_Store
+Thumbs.db
 
-# Resto del contenido existente del .gitignore
+# Archivos de IDE
+.idea/
+.vscode/
+*.iml
+
+# Archivos compilados
+*.class
+*.jar
+
+# Logs
+*.log
+
+# Directorios de construcción
+target/
+build/
+
+# Archivos temporales
+*.tmp
+*.bak
